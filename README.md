@@ -4,7 +4,7 @@ Código de ejemplo para el vídeo en Youtube sobre un Banner en HTML: [https://y
 Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch y Youtube 😊
 
 ## URL para ver el resultado
-Para ver proyecto en directo puedes verlo aquí [GITHUBPAGES](GITHUBPAGES)
+Para ver proyecto en directo puedes verlo aquí [https://eduardofierropro.github.io/Ejemplo-de-un-banner/](https://eduardofierropro.github.io/Ejemplo-de-un-banner/)
 
 ## Tiempo de programación ⏰
 Este ejemplo ha sido programado en aproximadamente 15 minutos al grabar el vídeo de Youtube: [URL](URL)
