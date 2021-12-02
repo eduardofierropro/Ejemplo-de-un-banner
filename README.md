@@ -1,7 +1,6 @@
 ## Descripción
-Código de ejemplo para el vídeo en Youtube sobre Acordeón: [URL](URL).
+Código de ejemplo para el vídeo en Youtube sobre un Banner en HTML: [https://youtu.be/a5lqNmHY8mI](https://youtu.be/a5lqNmHY8mI).
 
-No ha sido probado para tener soporte crossbrowsing.
 Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch y Youtube 😊
 
 ## URL para ver el resultado
@@ -10,15 +9,12 @@ Para ver proyecto en directo puedes verlo aquí [GITHUBPAGES](GITHUBPAGES)
 ## Tiempo de programación ⏰
 Este ejemplo ha sido programado en aproximadamente 15 minutos al grabar el vídeo de Youtube: [URL](URL)
 
-## PDF con info de módulos web
-Aquí te dejo [un enlace de descarga hacia un PDF](https://eduardofierro.pro/descargas/modulos-de-una-web.pdf?utm_source=modulos-web&utm_medium=github&utm_campaign=descarga-pdf) con el resto de módulos, resumen y teoría.
-
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
 Es un código programado en directo para entretenimiento.
 
 ## Vídeos relacionados en Youtube 🛠️
-* [URL](URL)
+* [https://youtu.be/a5lqNmHY8mI](https://youtu.be/a5lqNmHY8mI)
 
 
 ## Autor ✒️
