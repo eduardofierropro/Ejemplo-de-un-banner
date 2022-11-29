@@ -1,4 +1,4 @@
-![Imagen del proyecto](https://github.com/eduardofierropro/Ejemplo-de-un-banner/codigo/blob/main/home1.jpg)
+![Imagen del proyecto](https://github.com/eduardofierropro/Ejemplo-de-un-banner/blob/main/codigo/home1.png)
 
 # Explicación: Cómo hacer un banner a mano
 
